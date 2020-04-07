@@ -22,6 +22,16 @@ body {
     font-size: 16px;
     text-align: center;
   }
+ #counter {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 3px;
+    padding-right: 3px;
+    background-color: lightgray;
+    position: relative;
+    overflow: hidden;
+    color: white;
+  }
   h1 {
     font-size: 30px;
     font-weight: 300;
