@@ -23,8 +23,8 @@ body {
     text-align: center;
   }
  #counter {
-    padding-bottom: 30px;
-    padding-right: 30px;
+    padding-bottom: 20px;
+    padding-right: 20px;
 /*     background-color: lightgray; */
     position: relative;
     overflow: hidden;
